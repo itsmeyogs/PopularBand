@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Band</string>
+    <string name="home_screen">Daftar Band</string>
+    <string name="profile_screen">Profil</string>
+    <string name="detail_screen">Detail Band</string>
+    <string name="profil_picture">Foto Profil</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="about_page">About Page</string>
+</resources>
